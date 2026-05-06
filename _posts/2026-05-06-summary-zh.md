@@ -2,7 +2,7 @@
 layout: default
 title: "Daily News 2026-05-06"
 date: 2026-05-06
-lang: zh
+lang: en
 ---
 
 > From 31 items, 9 important content pieces were selected
