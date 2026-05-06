@@ -41,7 +41,4 @@ AI-curated daily digest of tech and research news.
 
 </div>
 
-<style>
-.lang-section{display:none}
-.lang-section:first-child{display:block}
-</style>
+
