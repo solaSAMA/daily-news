@@ -1,10 +1,10 @@
----
+﻿---
 layout: null
 permalink: /feed-zh.xml
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{{ site.title }} - 中文摘要</title>
+  <title>{{ site.title }} - 涓枃鎽樿</title>
   <link href="{{ '/feed-zh.xml' | absolute_url }}" rel="self"/>
   <link href="{{ '/' | absolute_url }}"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -20,3 +20,4 @@ permalink: /feed-zh.xml
   </entry>
   {% endfor %}
 </feed>
+
